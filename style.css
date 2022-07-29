@@ -1,0 +1,48 @@
+.containerhead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-form,.contactcontainer{
+    margin: 5% 30%;
+}
+
+.formheading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video, .buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+iframe{
+    width: 100%;
+}
+
+footer{
+    position: relative;
+    background-color: rgb(197, 187, 174);
+}
+
+#head6{
+    
+    margin : 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.nav-item a:hover{
+    background-color : rgb(197, 187, 174);
+
+}
+
+
+   
